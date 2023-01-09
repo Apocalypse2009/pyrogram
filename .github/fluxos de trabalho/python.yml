@@ -27,8 +27,8 @@ jobs:
       - name: Generate API
         run: |
           make venv
-          make api
-
-      - name: Run tests
+          make 
+5941675376:AAHBMlM_VkUsy1oO1TnPDv09qbQ-f_66su4
+      - name: bot telegram python
         run: |
           tox
